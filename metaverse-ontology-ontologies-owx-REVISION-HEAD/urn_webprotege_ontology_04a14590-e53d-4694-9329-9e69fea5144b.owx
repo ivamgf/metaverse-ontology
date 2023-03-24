@@ -1,0 +1,2149 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="urn:webprotege:ontology:04a14590-e53d-4694-9329-9e69fea5144b"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="urn:webprotege:ontology:04a14590-e53d-4694-9329-9e69fea5144b">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8TBgr8LeBfgWV82wE8Wr3Q"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8pGx3ayyFjClUbG12T6rPl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB9Bzkc63TP7J9oA4naUyDd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9k2MA3ZhhtIEk9w3Jcn4qg"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R7xuGSnEoHBWlm1Bf9vDMyk"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+            <Class IRI="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg"/>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC"/>
+        <Class IRI="http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL"/>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+            <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8TBgr8LeBfgWV82wE8Wr3Q"/>
+        <Class IRI="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU"/>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8pGx3ayyFjClUbG12T6rPl"/>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY"/>
+        <Class IRI="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn"/>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+        <Class IRI="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB9Bzkc63TP7J9oA4naUyDd"/>
+        <Class IRI="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm"/>
+        <Class IRI="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH"/>
+        <Class IRI="http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG"/>
+        <Class IRI="http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok"/>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a"/>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+        <Class IRI="http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo"/>
+        <Class IRI="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa"/>
+        <Class IRI="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+            <Class IRI="http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd"/>
+        <Class IRI="http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+            <Class IRI="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r"/>
+        <Class IRI="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz"/>
+        <Class IRI="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="en">Graphics engine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="en">Graphics engine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="pt-br">Motor gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="es">motor gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="en">3D engine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="pt-br">Graphics engine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im</IRI>
+        <Literal xml:lang="es">motor 3D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="pt-br">Microprocessador</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="en">specialized electronic circuit; graphics accelerator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="en">Graphics processing unit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="en">Graphics processing unit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="es">unidad de procesamiento gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="pt-br">unidade de processamento gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="en">GPU, visual processing unit, VPU, graphics accelerator, Graphic Processing Unit, Video Processing Unit, graphic unit, video unit, graphical processing unit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="es">Graphics Processing Unit, Unidad de Procesamiento Grafico, GPU, unidad de procesamiento de graficos, unidad de proceso grafico, unidad de procesamiento de gráficos, unidad de proceso gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx</IRI>
+        <Literal xml:lang="pt-br">Vpu, Visual processing unit, Gpu, Unidade gráfica de processamento, Graphics Processing Unit, Processador gráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="en">emergent economy existing in a virtual persistent world, usually exchanging virtual goods in the context of an Internet game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="en">Virtual economy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="es">Economía virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="en">Virtual economy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="es">Economia virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7</IRI>
+        <Literal xml:lang="en">synthetic economy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="en">interactive experience of a real-world environment enhanced by computer-generated perceptual information</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="es">término</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="en">Augmented Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="en">Augmented Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="es">realidad aumentada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="pt-br">realidade aumentada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA</IRI>
+        <Literal xml:lang="en">AR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="en">special type of cryptographic token which represents something unique</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="es">tipo especial de token criptográfico que representa algo único</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="pt-br">tipo especial de token criptográfico que representa algo único</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="en">non-fungible token</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="es">Token no fungible</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="en">non-fungible token</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="pt-br">token não fungível</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="en">NFT, Non-Fungible Token</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="pt-br">NFT, non-fungible token</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv</IRI>
+        <Literal xml:lang="es">TNF, NFT</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="en">computer-simulated environment simulating physical presence in real or imagined worlds</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="es">entorno de escenas u objetos de apariencia real, generado mediante tecnología informática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="pt">experiência simulada por computador</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="en">Virtual Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="en">Virtual Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="es">realidad virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="pt-br">realidade virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="en">VR, V.R.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="pt-br">virtual reality, VR, V.R., RV</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ</IRI>
+        <Literal xml:lang="es">virtualmente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit</IRI>
+        <Literal xml:lang="en">The Blockchain-Empowered Software System</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit</IRI>
+        <Literal xml:lang="en">Decentralized Applications: The Blockchain-Empowered Software System</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit</IRI>
+        <Literal xml:lang="en">Decentralized Applications</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit</IRI>
+        <Literal xml:lang="en">DAPPS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg</IRI>
+        <Literal xml:lang="en">VR glasses made with heavy-duty paper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg</IRI>
+        <Literal xml:lang="en">Cardboard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7jR2YLP58t8wMiGMiGcOEg</IRI>
+        <Literal xml:lang="en">Cardboard</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5</IRI>
+        <Literal xml:lang="en">technological artifacts</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7xuGSnEoHBWlm1Bf9vDMyk</IRI>
+        <Literal xml:lang="en">de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="en">set of technologies which allow a person to feel as if they were present in another place</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="en">Telepresence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="en">Telepresence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="es">telepresencia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="pt-br">telepresença</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU</IRI>
+        <Literal xml:lang="en">remote presence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="es">espacio virtual compartido en el que convergen la realidad física virtualmente mejorada y el espacio virtual físicamente persistente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="en">hypothetical iteration of the Internet as a single, universal, and immersive virtual world that is facilitated by the use of virtual reality and augmented reality headsets</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="pt-br">terminologia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="en">Metaverse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="en">Metaverse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1</IRI>
+        <Literal xml:lang="en">Meta Universe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="en">virtual reality headset by Facebook Technologies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="en">Meta Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="en">Meta Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="es">Meta Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="pt-br">Oculus Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="es">Oculus Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8FbSP5ilzcfd4yJCz2H2dC</IRI>
+        <Literal xml:lang="en">Quest 2, Oculus Quest 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="es">sistema donde una única compañía controla íntegramente a una plataforma</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="en">software system where the service provider restricts access to non-approved applications or content</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="en">closed platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="en">Closed platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="es">Jardín vallado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="es">Jardin vallado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL</IRI>
+        <Literal xml:lang="en">walled garden, closed ecosystem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="en">computer-based simulated environment populated by many users who can create a personal avatar, and simultaneously and independently explore the virtual world, participate in its activities and communicate with others</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="es">tipo de comunidad virtual en línea que simula un mundo o entorno artificial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="en">Virtual world</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="es">Mundo virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="pt-br">Mundo virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="en">Virtual world</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="en">MMOW, massively multiplayer online world, virtual space, virtual universe, virtual environment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="pt-br">Mundos virtuais</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf</IRI>
+        <Literal xml:lang="es">mundos virtuales, universo virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8TBgr8LeBfgWV82wE8Wr3Q</IRI>
+        <Literal xml:lang="en">Non-Human Agents</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="en">brand of virtual reality hardware and software</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="pt-br">marca de hardware e software de realidade virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="en">Oculus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="en">Oculus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="pt-br">Oculus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="es">Oculus VR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="pt-br">Oculus do Facebook (Meta)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8WOzEzUl70NnJZJtyjZsbU</IRI>
+        <Literal xml:lang="en">Oculus from Facebook (Meta)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8pGx3ayyFjClUbG12T6rPl</IRI>
+        <Literal xml:lang="en">VR Box</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8pGx3ayyFjClUbG12T6rPl</IRI>
+        <Literal xml:lang="en">VR Box</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY</IRI>
+        <Literal xml:lang="en">Hotspots that connect virtual environments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY</IRI>
+        <Literal xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 137, 2022</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY</IRI>
+        <Literal xml:lang="en">Portals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY</IRI>
+        <Literal xml:lang="en">Portals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY</IRI>
+        <Literal xml:lang="en">Portals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr</IRI>
+        <Literal xml:lang="en">IsA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="en">digital medium of exchange using cryptography on a ledger to secure transactions and to verify transfer of ownership</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="pt-br">meio de troca digital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="es">tipo de moneda o divisa electrónica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="en">Cryptocurrency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="en">Cryptocurrency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="pt-br">criptomoeda</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="es">criptomoneda</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="es">criptodivisa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV</IRI>
+        <Literal xml:lang="en">crypto currency, crypto, Cryptocurrency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="pt-br">plataforma de desenvolvimento de baixo código</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="en">platforms for intuitive creation of applications with little or no prior knowledge of coding necessary</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="en">Low-code development platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="en">Low-code development platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="pt-br">Plataforma de desenvolvimento de baixo código</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="en">High Productivity Application Platform as a Service, hpaPaaS, no-Code Development Platform, visual programming development platform, Low-code development platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn</IRI>
+        <Literal xml:lang="pt-br">plataforma de desenvolvimento de baixo código ou low-code, LCDP</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9k2MA3ZhhtIEk9w3Jcn4qg</IRI>
+        <Literal xml:lang="en">VR glasses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="es">casco con pantalla que permite reproducir un mundo virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="en">head-mounted device that provides virtual reality for the wearer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="en">VR glasses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="en">VR glasses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="es">casco de realidad virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M</IRI>
+        <Literal xml:lang="en">VR headset, V.R. headset, V. R. headset, virtual reality glasses, VR glasses, V.R. glasses, V. R. glasses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd</IRI>
+        <Literal xml:lang="en">digital representation as a software model of real-world environments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd</IRI>
+        <Literal xml:lang="en">Mirror world</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd</IRI>
+        <Literal xml:lang="en">Mirror world</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="pt-br">base de dados distribuída para transações digitais</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="en">distributed data store for digital transactions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="es">forma de contabilidad criptográfica distribuida</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="en">Blockchain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="en">block chain, block chain technology, blockchains, blockchain technology</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="pt-br">cadeia de blocos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="en">Blockchain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="pt-br">Blockchain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9</IRI>
+        <Literal xml:lang="es">cadena de bloques</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB9Bzkc63TP7J9oA4naUyDd</IRI>
+        <Literal xml:lang="en">Human Agents</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="pt-br">Representação de um objeto ou forma dentro do metaverso, de forma virtual. Modelo virtual projetado para refletir com precisão um objeto físico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="en">similar-age unrelated children brought up together</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 135, 2022</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="en">Virtual twin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="pt-br">Gêmeo virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="en">Virtual twin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab</IRI>
+        <Literal xml:lang="en">Virtual twin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="en">electronic wallet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="en">Digital Wallet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="es">Billetera digital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="en">Digital Wallet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="pt-br">carteira digital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks</IRI>
+        <Literal xml:lang="en">electronic wallet, e-wallet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa</IRI>
+        <Literal xml:lang="en">Has</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="en">Smart contracts applied to blockchains, computer program or transaction on a decentralized platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="es">programa informático o transacción en una plataforma descentralizada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="en">Smart contracts</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="es">Contrato Inteligente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="pt-br">Contrato inteligente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="en">Smart contracts</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69</IRI>
+        <Literal xml:lang="en">Smart contracts</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl</IRI>
+        <Literal xml:lang="en">Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="en">alternative cryptocurrency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="en">Altcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="en">Altcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="pt-br">altcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="pt-br">Altcoins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm</IRI>
+        <Literal xml:lang="en">alternative coin, alternative cryptocurrency coin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="en">Realistic reproduction of a person, place or object within the virtual space</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="pt-br">Reprodução realista de uma pessoa, lugar ou objeto, dentro do espeço virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 137, 2022</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="en">Digital Holograms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="en">Digital Holograms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn</IRI>
+        <Literal xml:lang="pt-br">Holograma digital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="pt-br">fone de ouvido de realidade virtual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="en">untethered virtual reality headset by Facebook Technologies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="en">Meta Quest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="en">Meta Quest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="pt-br">Oculus Quest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCAWNTSIYWt2g0qehCWzjlH</IRI>
+        <Literal xml:lang="en">Quest, Oculus Quest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="en">Software cryptocurrency wallet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="es">cartera de criptomonedas de software</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="en">MetaMask</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="en">MetaMask</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG</IRI>
+        <Literal xml:lang="es">MetaMask</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok</IRI>
+        <Literal xml:lang="en">software system which is based on open standards, such as published and fully documented external APIs that allow using the software to function in other ways than the original programmer intended, without requiring modification of the source code</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok</IRI>
+        <Literal xml:lang="en">open platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok</IRI>
+        <Literal xml:lang="en">Open platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok</IRI>
+        <Literal xml:lang="en">open platforms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="es">Plataforma</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="pt-br">plataforma de blockchain pública com funcionalidade de transações programáveis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="en">public blockchain platform with programmable transaction functionality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="en">Ethereum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="en">Ethereum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="pt-br">Ethereum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="es">Éter/Ether</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="es">ETH, Verde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a</IRI>
+        <Literal xml:lang="en">ETH, Ξ, ethereum.org</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">Ethereum native token</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">Ether</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">Ethereum Cryptocurrency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">Ether</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy</IRI>
+        <Literal xml:lang="en">ETH, Ξ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW</IRI>
+        <Literal xml:lang="en">data visualization and analysis using immersive environments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW</IRI>
+        <Literal xml:lang="en">Immersive</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW</IRI>
+        <Literal xml:lang="en">Immersive</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="es">combinación de realidad virtual y realidad aumentada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="en">merging of real and virtual worlds to produce new environments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="en">Mixed Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="en">Mixed Reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="es">realidad mixta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="pt-br">realidade mista</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="en">hybrid reality, MR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm</IRI>
+        <Literal xml:lang="es">realidad híbrida</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt</IRI>
+        <Literal xml:lang="en">Spatial audio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt</IRI>
+        <Literal xml:lang="en">Spatial Audio Rendering</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7</IRI>
+        <Literal xml:lang="en">environment in which a piece of software is executed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7</IRI>
+        <Literal xml:lang="en">Computing platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7</IRI>
+        <Literal xml:lang="en">Computing platform</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7</IRI>
+        <Literal xml:lang="en">platform, digital platform, computing environment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4</IRI>
+        <Literal xml:lang="en">Remote data management process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4</IRI>
+        <Literal xml:lang="en">Decentralization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4</IRI>
+        <Literal xml:lang="en">Decentralization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4</IRI>
+        <Literal xml:lang="en">decentralisation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="en">a term referring to all real-and-virtual combined environments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="en">Extended reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="en">Extended reality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="es">Realidad extendida</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo</IRI>
+        <Literal xml:lang="en">XR, AR/VR/MR</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa</IRI>
+        <Literal xml:lang="en">enclosed garden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa</IRI>
+        <Literal xml:lang="en">Walled garden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa</IRI>
+        <Literal xml:lang="en">Walled garden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd</IRI>
+        <Literal xml:lang="en">virtual reality headset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd</IRI>
+        <Literal xml:lang="en">Meta Quest Pro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RGK4erviNGjmAoy00m1hFd</IRI>
+        <Literal xml:lang="en">Meta Quest Pro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks</IRI>
+        <Literal xml:lang="en">video game in which the world of the game continues to exist and develop whether players are present or not.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks</IRI>
+        <Literal xml:lang="en">Persistent world video game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks</IRI>
+        <Literal xml:lang="en">Persistent world video game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks</IRI>
+        <Literal xml:lang="en">persistent universe video game, persistent state world video game, persistent world multiplayer role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="en">Ability to teleport from one virtual world to another</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="pt-br">Capacidade de se teletransportar de um mundo virtual para outro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, 2022</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="en">Teleportation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="en">Teleportation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ</IRI>
+        <Literal xml:lang="pt-br">Teletransporte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="en">digital cash system and associated currency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="pt-br">moeda digital descentralizada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="es">sistema monetario digital y unidad monetaria asociada</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="en">Bitcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="en">Bitcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="pt-br">Bitcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="es">bitcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="en">BTC, XBT, ₿, Bitcoins, Bitcoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r</IRI>
+        <Literal xml:lang="es">bitcóin, bitcoines</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="en">graphical representation of the user or the user&apos;s alter ego or character</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="es">representación gráfica del álter ego de un usuario o de un personaje</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="pt-br">representação gráfica de um usuário na Internet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="en">wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="en">Avatar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="en">Avatar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="es">Avatar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="pt-br">Avatar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="es">avatares</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="pt-br">foto de perfil, imagem de perfil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU</IRI>
+        <Literal xml:lang="en">profile picture, pfp, avi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="es">subgénero de los videojuegos de rol en un entorno virtual con múltiples jugadores simultáneos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="pt-br">tipo de jogo online</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="en">video game genre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/rights"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="en">Wikidata</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="en">massively multiplayer online role-playing game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="en">Massively multiplayer online role-playing game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="pt-br">massively multiplayer online role-playing game</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="es">videojuego de rol multijugador masivo en línea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="en">MMORPG, MMO, mmorpg</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="pt-br">MMORPG, RPG On-line, RPG Online, massive multiplayer online role-playing game, rpg online massivo, mmorpgs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz</IRI>
+        <Literal xml:lang="es">MMORPG, videojuego de rol multijugador masivo online, RPG en línea, RPG online, videojuego de rol multijugador masivo en linea, RPG en linea</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
