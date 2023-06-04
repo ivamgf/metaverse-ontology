@@ -1,0 +1,1128 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:04a14590-e53d-4694-9329-9e69fea5144b#"
+     xml:base="urn:webprotege:ontology:04a14590-e53d-4694-9329-9e69fea5144b"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:webprotege="http://webprotege.stanford.edu/">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:04a14590-e53d-4694-9329-9e69fea5144b"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/rights -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/rights"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xuGSnEoHBWlm1Bf9vDMyk -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R7xuGSnEoHBWlm1Bf9vDMyk">
+        <rdfs:label xml:lang="en">de</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr">
+        <rdfs:label xml:lang="en">IsA</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9k2MA3ZhhtIEk9w3Jcn4qg -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9k2MA3ZhhtIEk9w3Jcn4qg">
+        <rdfs:label xml:lang="en">VR glasses</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa">
+        <rdfs:label xml:lang="en">Has</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R0NWRE3lbMI9wng7jJf0Im">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Graphics engine</dc:title>
+        <rdfs:label xml:lang="en">Graphics engine</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Motor gráfico</rdfs:label>
+        <rdfs:label xml:lang="es">motor gráfico</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">3D engine</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">Graphics engine</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">motor 3D</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R191ekQ15pHPJxSsw3tcWI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R191ekQ15pHPJxSsw3tcWI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:title xml:lang="en">Creation economy</dc:title>
+        <rdfs:label xml:lang="en">Creation economy</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Creation economy</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R4ip9ZfPfs3PoW7hXj7Kwo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R4ip9ZfPfs3PoW7hXj7Kwo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">AR glasses, or Augmented Reality glasses, are wearable devices that overlay digital information onto the real-world environment. These glasses typically consist of a display unit, which can be transparent or semi-transparent, allowing users to see both the real world and the virtual content simultaneously. The digital information displayed by AR glasses can include text, images, videos, or 3D models, which are superimposed onto the user&apos;s field of view. This technology enhances the user&apos;s perception of reality by adding virtual elements to the real world, creating an augmented experience.</dc:description>
+        <dc:description xml:lang="es">Las gafas de AR, o gafas de Realidad Aumentada, son dispositivos portátiles que superponen información digital al entorno del mundo real. Estas gafas suelen constar de una unidad de visualización, que puede ser transparente o semitransparente, permitiendo a los usuarios ver tanto el mundo real como el contenido virtual de manera simultánea. La información digital mostrada por las gafas de AR puede incluir texto, imágenes, videos o modelos 3D, que se superponen al campo de visión del usuario. Esta tecnología mejora la percepción del usuario respecto a la realidad, añadiendo elementos virtuales al mundo real y creando una experiencia aumentada.</dc:description>
+        <dc:description xml:lang="pt-br">Óculos de AR, ou óculos de Realidade Aumentada, são dispositivos vestíveis que sobrepõem informações digitais ao ambiente do mundo real. Esses óculos geralmente consistem em uma unidade de exibição, que pode ser transparente ou semitransparente, permitindo que os usuários vejam tanto o mundo real quanto o conteúdo virtual simultaneamente. As informações digitais exibidas pelos óculos de AR podem incluir texto, imagens, vídeos ou modelos 3D, que são sobrepostos ao campo de visão do usuário. Essa tecnologia melhora a percepção do usuário em relação à realidade, adicionando elementos virtuais ao mundo real e criando uma experiência aumentada.</dc:description>
+        <dc:title xml:lang="en">AR glasses</dc:title>
+        <rdfs:label xml:lang="en">AR glasses</rdfs:label>
+        <rdfs:label xml:lang="es">Las gafas de AR</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Óculos de AR</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">AR glasses</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R70tgliecaqhy6r8qkHrFrx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="pt-br">Microprocessador</dc:description>
+        <dc:description xml:lang="en">specialized electronic circuit; graphics accelerator</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Graphics processing unit</dc:title>
+        <rdfs:label xml:lang="en">Graphics processing unit</rdfs:label>
+        <rdfs:label xml:lang="es">unidad de procesamiento gráfico</rdfs:label>
+        <rdfs:label xml:lang="pt-br">unidade de processamento gráfico</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">GPU, visual processing unit, VPU, graphics accelerator, Graphic Processing Unit, Video Processing Unit, graphic unit, video unit, graphical processing unit</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">Graphics Processing Unit, Unidad de Procesamiento Grafico, GPU, unidad de procesamiento de graficos, unidad de proceso grafico, unidad de procesamiento de gráficos, unidad de proceso gráfico</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">Vpu, Visual processing unit, Gpu, Unidade gráfica de processamento, Graphics Processing Unit, Processador gráfico</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R71szo8Wyuw0O7aUhIEMWU7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">emergent economy existing in a virtual persistent world, usually exchanging virtual goods in the context of an Internet game</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Virtual economy</dc:title>
+        <rdfs:label xml:lang="es">Economía virtual</rdfs:label>
+        <rdfs:label xml:lang="en">Virtual economy</rdfs:label>
+        <rdfs:seeAlso xml:lang="es">Economia virtual</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">synthetic economy</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <dc:description xml:lang="en">interactive experience of a real-world environment enhanced by computer-generated perceptual information</dc:description>
+        <dc:description xml:lang="es">término</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Augmented Reality</dc:title>
+        <rdfs:label xml:lang="en">Augmented Reality</rdfs:label>
+        <rdfs:label xml:lang="es">realidad aumentada</rdfs:label>
+        <rdfs:label xml:lang="pt-br">realidade aumentada</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">AR</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7QVcQvJ20N8L6qiP44TLKv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">special type of cryptographic token which represents something unique</dc:description>
+        <dc:description xml:lang="es">tipo especial de token criptográfico que representa algo único</dc:description>
+        <dc:description xml:lang="pt-br">tipo especial de token criptográfico que representa algo único</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">non-fungible token</dc:title>
+        <rdfs:label xml:lang="es">Token no fungible</rdfs:label>
+        <rdfs:label xml:lang="en">non-fungible token</rdfs:label>
+        <rdfs:label xml:lang="pt-br">token não fungível</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">NFT, Non-Fungible Token</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">NFT, non-fungible token</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">TNF, NFT</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">computer-simulated environment simulating physical presence in real or imagined worlds</dc:description>
+        <dc:description xml:lang="es">entorno de escenas u objetos de apariencia real, generado mediante tecnología informática</dc:description>
+        <dc:description xml:lang="pt">experiência simulada por computador</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Virtual Reality</dc:title>
+        <rdfs:label xml:lang="en">Virtual Reality</rdfs:label>
+        <rdfs:label xml:lang="es">realidad virtual</rdfs:label>
+        <rdfs:label xml:lang="pt-br">realidade virtual</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">VR, V.R.</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">virtual reality, VR, V.R., RV</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">virtualmente</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">The Blockchain-Empowered Software System</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Decentralized Applications: The Blockchain-Empowered Software System</dc:title>
+        <rdfs:label xml:lang="en">Decentralized Applications</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">DAPPS</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:label xml:lang="en">technological artifacts</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R81T0ZBU1EmhVdRcGirXILU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">set of technologies which allow a person to feel as if they were present in another place</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Telepresence</dc:title>
+        <rdfs:label xml:lang="en">Telepresence</rdfs:label>
+        <rdfs:label xml:lang="es">telepresencia</rdfs:label>
+        <rdfs:label xml:lang="pt-br">telepresença</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">remote presence</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1">
+        <dc:description xml:lang="es">espacio virtual compartido en el que convergen la realidad física virtualmente mejorada y el espacio virtual físicamente persistente</dc:description>
+        <dc:description xml:lang="en">hypothetical iteration of the Internet as a single, universal, and immersive virtual world that is facilitated by the use of virtual reality and augmented reality headsets</dc:description>
+        <dc:description xml:lang="pt-br">terminologia</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Metaverse</dc:title>
+        <rdfs:label xml:lang="en">Metaverse</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Meta Universe</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <dc:description xml:lang="es">sistema donde una única compañía controla íntegramente a una plataforma</dc:description>
+        <dc:description xml:lang="en">software system where the service provider restricts access to non-approved applications or content</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">closed platform</dc:title>
+        <rdfs:label xml:lang="en">Closed platform</rdfs:label>
+        <rdfs:label xml:lang="es">Jardín vallado</rdfs:label>
+        <rdfs:seeAlso xml:lang="es">Jardin vallado</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">walled garden, closed ecosystem</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">computer-based simulated environment populated by many users who can create a personal avatar, and simultaneously and independently explore the virtual world, participate in its activities and communicate with others</dc:description>
+        <dc:description xml:lang="es">tipo de comunidad virtual en línea que simula un mundo o entorno artificial</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Virtual world</dc:title>
+        <rdfs:label xml:lang="es">Mundo virtual</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Mundo virtual</rdfs:label>
+        <rdfs:label xml:lang="en">Virtual world</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">MMOW, massively multiplayer online world, virtual space, virtual universe, virtual environment</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">Mundos virtuais</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">mundos virtuales, universo virtual</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TBgr8LeBfgWV82wE8Wr3Q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8TBgr8LeBfgWV82wE8Wr3Q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+        <rdfs:label xml:lang="en">Non-Human Agents</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8czVKUXLzAVyN2W79LTAst -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8czVKUXLzAVyN2W79LTAst">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="es">Las gafas de MR, o gafas de Realidad Mixta, son dispositivos portátiles avanzados que combinan elementos tanto de la realidad virtual (VR) como de la realidad aumentada (AR). Estas gafas permiten a los usuarios interactuar con objetos virtuales mientras mantienen la conciencia del entorno físico. Las gafas de MR logran esto mapeando el entorno del usuario y superponiendo contenido virtual sobre objetos o superficies específicas del mundo real. Esta combinación de elementos reales y virtuales permite a los usuarios interactuar y manipular objetos digitales de manera más inmersiva y realista. Las gafas de MR ofrecen una integración perfecta de experiencias virtuales y del mundo real, lo que las hace adecuadas para una amplia gama de aplicaciones, como juegos, diseño, entrenamiento y colaboración.</dc:description>
+        <dc:description xml:lang="en">MR glasses, or Mixed Reality glasses, are advanced wearable devices that combine elements of both virtual reality (VR) and augmented reality (AR). These glasses allow users to interact with virtual objects while maintaining awareness of the physical environment. MR glasses achieve this by mapping the user&apos;s surroundings and overlaying virtual content onto specific real-world objects or surfaces. This blending of real and virtual elements enables users to interact with and manipulate digital objects in a more immersive and realistic manner. MR glasses provide a seamless integration of virtual and real-world experiences, making them suitable for a wide range of applications, such as gaming, design, training, and collaboration.</dc:description>
+        <dc:description xml:lang="pt">Óculos de MR, ou óculos de Realidade Mista, são dispositivos vestíveis avançados que combinam elementos tanto da realidade virtual (VR) quanto da realidade aumentada (AR). Esses óculos permitem que os usuários interajam com objetos virtuais enquanto mantêm a consciência do ambiente físico. Os óculos de MR conseguem isso mapeando o ambiente do usuário e sobrepondo conteúdo virtual a objetos ou superfícies específicos do mundo real. Essa combinação de elementos reais e virtuais permite que os usuários interajam e manipulem objetos digitais de maneira mais imersiva e realista. Os óculos de MR proporcionam uma integração perfeita de experiências virtuais e do mundo real, tornando-os adequados para uma ampla gama de aplicações, como jogos, design, treinamento e colaboração.</dc:description>
+        <dc:title xml:lang="en">MR glasses</dc:title>
+        <rdfs:label xml:lang="es">Las gafas de MR</rdfs:label>
+        <rdfs:label xml:lang="en">MR glasses</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Óculos de MR</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">MR glasses</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8uOOWMJNFP8HfmsbokD8vY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">Hotspots that connect virtual environments</dc:description>
+        <dc:rights xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 137, 2022</dc:rights>
+        <dc:title xml:lang="en">Portals</dc:title>
+        <rdfs:label xml:lang="en">Portals</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Portals</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:title xml:lang="en">Architecture</dc:title>
+        <rdfs:label xml:lang="en">Architecture</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Metaverse architecture</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">digital medium of exchange using cryptography on a ledger to secure transactions and to verify transfer of ownership</dc:description>
+        <dc:description xml:lang="pt-br">meio de troca digital</dc:description>
+        <dc:description xml:lang="es">tipo de moneda o divisa electrónica</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Cryptocurrency</dc:title>
+        <rdfs:label xml:lang="en">Cryptocurrency</rdfs:label>
+        <rdfs:label xml:lang="pt-br">criptomoeda</rdfs:label>
+        <rdfs:label xml:lang="es">criptomoneda</rdfs:label>
+        <rdfs:seeAlso xml:lang="es">criptodivisa</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">crypto currency, crypto, Cryptocurrency</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9KU3aqjXylZiskVIKqq8sd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9KU3aqjXylZiskVIKqq8sd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:title xml:lang="en">Human interface</dc:title>
+        <rdfs:label xml:lang="en">Human interface</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Human interface</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9NkWiXMZTtAiGaQHWSUzj9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9NkWiXMZTtAiGaQHWSUzj9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">personal record of one&apos;s daily life</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Lifelog</dc:title>
+        <rdfs:label xml:lang="en">Lifelog</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">life-logging, lifelogging</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9dpKrCtFsqILL0xp4k62Sn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <dc:description xml:lang="pt-br">plataforma de desenvolvimento de baixo código</dc:description>
+        <dc:description xml:lang="en">platforms for intuitive creation of applications with little or no prior knowledge of coding necessary</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Low-code development platform</dc:title>
+        <rdfs:label xml:lang="en">Low-code development platform</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Plataforma de desenvolvimento de baixo código</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">High Productivity Application Platform as a Service, hpaPaaS, no-Code Development Platform, visual programming development platform, Low-code development platform</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">plataforma de desenvolvimento de baixo código ou low-code, LCDP</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9kE48oho2xU3XutEZ4B52n -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9kE48oho2xU3XutEZ4B52n">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:title xml:lang="en">Discovery</dc:title>
+        <rdfs:label xml:lang="en">Discovery</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Discovery</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="es">casco con pantalla que permite reproducir un mundo virtual</dc:description>
+        <dc:description xml:lang="en">head-mounted device that provides virtual reality for the wearer</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">VR glasses</dc:title>
+        <rdfs:label xml:lang="en">VR glasses</rdfs:label>
+        <rdfs:label xml:lang="es">casco de realidad virtual</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">VR headset, V.R. headset, V. R. headset, virtual reality glasses, VR glasses, V.R. glasses, V. R. glasses</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">digital representation as a software model of real-world environments</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Mirror world</dc:title>
+        <rdfs:label xml:lang="en">Mirror world</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="pt-br">base de dados distribuída para transações digitais</dc:description>
+        <dc:description xml:lang="en">distributed data store for digital transactions</dc:description>
+        <dc:description xml:lang="es">forma de contabilidad criptográfica distribuida</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Blockchain</dc:title>
+        <rdfs:isDefinedBy xml:lang="pt-br">cadeia de blocos</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Blockchain</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Blockchain</rdfs:label>
+        <rdfs:label xml:lang="es">cadena de bloques</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">block chain, block chain technology, blockchains, blockchain technology</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9wqW0ftmJ3D0lB5C2FUiAd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9wqW0ftmJ3D0lB5C2FUiAd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:title xml:lang="en">Experience</dc:title>
+        <rdfs:label xml:lang="en">Experience</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Experience</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB2X3QZMjbcKktQGfw37xIr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB2X3QZMjbcKktQGfw37xIr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:title xml:lang="en">Space computing</dc:title>
+        <rdfs:label xml:lang="en">Space computing</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Space computing</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB9Bzkc63TP7J9oA4naUyDd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB9Bzkc63TP7J9oA4naUyDd">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU"/>
+        <rdfs:label xml:lang="en">Human Agents</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBAXXqB4OeYvz3HF56hSoab">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="pt-br">Representação de um objeto ou forma dentro do metaverso, de forma virtual. Modelo virtual projetado para refletir com precisão um objeto físico</dc:description>
+        <dc:description xml:lang="en">similar-age unrelated children brought up together</dc:description>
+        <dc:rights xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 135, 2022</dc:rights>
+        <dc:title xml:lang="en">Virtual twin</dc:title>
+        <rdfs:label xml:lang="pt-br">Gêmeo virtual</rdfs:label>
+        <rdfs:label xml:lang="en">Virtual twin</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Virtual twin</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">electronic wallet</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Digital Wallet</dc:title>
+        <rdfs:label xml:lang="es">Billetera digital</rdfs:label>
+        <rdfs:label xml:lang="en">Digital Wallet</rdfs:label>
+        <rdfs:label xml:lang="pt-br">carteira digital</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">electronic wallet, e-wallet</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBS7j1CPRDssZO6LiwAaQ69">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">Smart contracts applied to blockchains, computer program or transaction on a decentralized platform</dc:description>
+        <dc:description xml:lang="es">programa informático o transacción en una plataforma descentralizada</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Smart contracts</dc:title>
+        <rdfs:label xml:lang="es">Contrato Inteligente</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Contrato inteligente</rdfs:label>
+        <rdfs:label xml:lang="en">Smart contracts</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Smart contracts</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:label xml:lang="en">Reality</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+        <dc:description xml:lang="en">alternative cryptocurrency</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Altcoin</dc:title>
+        <rdfs:label xml:lang="en">Altcoin</rdfs:label>
+        <rdfs:label xml:lang="pt-br">altcoin</rdfs:label>
+        <rdfs:seeAlso xml:lang="pt-br">Altcoins</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">alternative coin, alternative cryptocurrency coin</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBvK8jFvDNOOFLDevgLOhkn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">Realistic reproduction of a person, place or object within the virtual space</dc:description>
+        <dc:description xml:lang="pt-br">Reprodução realista de uma pessoa, lugar ou objeto, dentro do espeço virtual</dc:description>
+        <dc:rights xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, p. 137, 2022</dc:rights>
+        <dc:title xml:lang="en">Digital Holograms</dc:title>
+        <rdfs:label xml:lang="en">Digital Holograms</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Holograma digital</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCEqDpalc6piNCsiKjIlLmG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBCX1WxkATh3mzVRrJp8hks"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">Software cryptocurrency wallet</dc:description>
+        <dc:description xml:lang="es">cartera de criptomonedas de software</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">MetaMask</dc:title>
+        <rdfs:label xml:lang="en">MetaMask</rdfs:label>
+        <rdfs:label xml:lang="es">MetaMask</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCIguO3K2iI42aAjQUmpMok">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <dc:description xml:lang="en">software system which is based on open standards, such as published and fully documented external APIs that allow using the software to function in other ways than the original programmer intended, without requiring modification of the source code</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">open platform</dc:title>
+        <rdfs:label xml:lang="en">Open platform</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">open platforms</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCSFwj47y33PGfd9LQFtB4a">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7gcHYgnxTZRKbsfaAhqRit"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9veqXbGKbD4VuuNsXIe5F9"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="es">Plataforma</dc:description>
+        <dc:description xml:lang="pt-br">plataforma de blockchain pública com funcionalidade de transações programáveis</dc:description>
+        <dc:description xml:lang="en">public blockchain platform with programmable transaction functionality</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Ethereum</dc:title>
+        <rdfs:label xml:lang="en">Ethereum</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Ethereum</rdfs:label>
+        <rdfs:label xml:lang="es">Éter/Ether</rdfs:label>
+        <rdfs:seeAlso xml:lang="es">ETH, Verde</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">ETH, Ξ, ethereum.org</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCdARmIs8QyPf4SCxS5EYsy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBqHWuQsiY1y2VLYUHps1Mm"/>
+        <dc:description xml:lang="en">Ethereum native token</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Ether</dc:title>
+        <rdfs:isDefinedBy xml:lang="en">Ethereum Cryptocurrency</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Ether</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">ETH, Ξ</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCvFPSWUVBeY248EbAOKUMW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8NY5KnACkA3ulVbvnX1ppf"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9uerhETWfYl0tOWqS30Ovd"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">data visualization and analysis using immersive environments</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Immersive</dc:title>
+        <rdfs:label xml:lang="en">Immersive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="es">combinación de realidad virtual y realidad aumentada</dc:description>
+        <dc:description xml:lang="en">merging of real and virtual worlds to produce new environments</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Mixed Reality</dc:title>
+        <rdfs:label xml:lang="en">Mixed Reality</rdfs:label>
+        <rdfs:label xml:lang="es">realidad mixta</rdfs:label>
+        <rdfs:label xml:lang="pt-br">realidade mista</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">hybrid reality, MR</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">realidad híbrida</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD3M0AW0QJjrdYdFqu7ecJt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Spatial audio</dc:title>
+        <rdfs:label xml:lang="en">Spatial Audio Rendering</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">environment in which a piece of software is executed</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Computing platform</dc:title>
+        <rdfs:label xml:lang="en">Computing platform</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">platform, digital platform, computing environment</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDMPPbjPDQK0AFadwQzHFB4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:description xml:lang="en">Remote data management process</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Decentralization</dc:title>
+        <rdfs:label xml:lang="en">Decentralization</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">decentralisation</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDeR7GzFnLGhCvPGgemuJo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkk5tNXtTaZgHdKfdgAskl"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCzz5bGLiBu4ZoBinbhmdAm"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">a term referring to all real-and-virtual combined environments</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Extended reality</dc:title>
+        <rdfs:label xml:lang="en">Extended reality</rdfs:label>
+        <rdfs:label xml:lang="es">Realidad extendida</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">XR, AR/VR/MR</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDwpkXabPdKwVZcwhuyCDGa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDGP8PSY7F5oypgkel1qUw7"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R8I6bNx8n4ErnWYepCM7RVL"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">enclosed garden</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">Walled garden</dc:title>
+        <rdfs:label xml:lang="en">Walled garden</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RJd8srspOC1BiUgg8nhGks">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">video game in which the world of the game continues to exist and develop whether players are present or not.</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Persistent world video game</dc:title>
+        <rdfs:label xml:lang="en">Persistent world video game</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">persistent universe video game, persistent state world video game, persistent world multiplayer role, life logging</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/ROJoGqSABicMHuCXfXHHrZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R76F2Vgpo5JAiUDSLpRJ9fA"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YTawh4vCHMMDoMGbGaAjZ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBKtNlL7XcVuAwhu5vr9cMa"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description xml:lang="en">Ability to teleport from one virtual world to another</dc:description>
+        <dc:description xml:lang="pt-br">Capacidade de se teletransportar de um mundo virtual para outro</dc:description>
+        <dc:rights xml:lang="pt-br">Longo, W.; Tavares, F. Metaverso: Onde você vai viver e trabalhar em breve, Alta Books, 2022</dc:rights>
+        <dc:title xml:lang="en">Teleportation</dc:title>
+        <rdfs:label xml:lang="en">Teleportation</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Teletransporte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RgZwyQYTELpvgAa1rwWa1r">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9DYiZxJsKrLv2p3eZwHAzV"/>
+        <dc:description xml:lang="en">digital cash system and associated currency</dc:description>
+        <dc:description xml:lang="pt-br">moeda digital descentralizada</dc:description>
+        <dc:description xml:lang="es">sistema monetario digital y unidad monetaria asociada</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Bitcoin</dc:title>
+        <rdfs:label xml:lang="en">Bitcoin</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Bitcoin</rdfs:label>
+        <rdfs:label xml:lang="es">bitcoin</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">BTC, XBT, ₿, Bitcoins, Bitcoin</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">bitcóin, bitcoines</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rhp9zi4HzfX4lhbYcJpggU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="en">graphical representation of the user or the user&apos;s alter ego or character</dc:description>
+        <dc:description xml:lang="es">representación gráfica del álter ego de un usuario o de un personaje</dc:description>
+        <dc:description xml:lang="pt-br">representação gráfica de um usuário na Internet</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Avatar</dc:title>
+        <rdfs:label xml:lang="en">Avatar</rdfs:label>
+        <rdfs:label xml:lang="es">Avatar</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Avatar</rdfs:label>
+        <rdfs:seeAlso xml:lang="es">avatares</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">foto de perfil, imagem de perfil</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="en">profile picture, pfp, avi</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RoEes4x9tXdP4E0jDkSEJz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8AKpD6G3PYDsVACrRD3PU1"/>
+        <dc:description xml:lang="es">subgénero de los videojuegos de rol en un entorno virtual con múltiples jugadores simultáneos</dc:description>
+        <dc:description xml:lang="pt-br">tipo de jogo online</dc:description>
+        <dc:description xml:lang="en">video game genre</dc:description>
+        <dc:rights xml:lang="en">Wikidata</dc:rights>
+        <dc:title xml:lang="en">massively multiplayer online role-playing game</dc:title>
+        <rdfs:label xml:lang="en">Massively multiplayer online role-playing game</rdfs:label>
+        <rdfs:label xml:lang="pt-br">massively multiplayer online role-playing game</rdfs:label>
+        <rdfs:label xml:lang="es">videojuego de rol multijugador masivo en línea</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">MMORPG, MMO, mmorpg</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="pt-br">MMORPG, RPG On-line, RPG Online, massive multiplayer online role-playing game, rpg online massivo, mmorpgs</rdfs:seeAlso>
+        <rdfs:seeAlso xml:lang="es">MMORPG, videojuego de rol multijugador masivo online, RPG en línea, RPG online, videojuego de rol multijugador masivo en linea, RPG en linea</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwxfLYAZdqsv9KnylhxQmS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RwxfLYAZdqsv9KnylhxQmS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R91Pbii0qSLoZY8VqhKd0j5"/>
+        <dc:description xml:lang="en">Metaverse Infrastructure</dc:description>
+        <dc:title xml:lang="en">Infrastructure</dc:title>
+        <rdfs:label xml:lang="en">Infrastructure</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infrastructure</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8yBndYVS24Q5vPSueYU5Ph -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8yBndYVS24Q5vPSueYU5Ph">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+            </owl:Restriction>
+        </rdf:type>
+        <dc:description xml:lang="en">Untethered virtual reality headset by Facebook Technologies.</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Meta Quest</dc:title>
+        <rdfs:label xml:lang="en">Meta Quest</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Quest, Oculus Quest</rdfs:seeAlso>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB9hU2Z7clQGLmqxlZPcZfe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB9hU2Z7clQGLmqxlZPcZfe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+            </owl:Restriction>
+        </rdf:type>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">VR Box</dc:title>
+        <rdfs:label xml:lang="en">VR Box</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RhYBDrCrfZKjIKyMymo3iG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RhYBDrCrfZKjIKyMymo3iG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+            </owl:Restriction>
+        </rdf:type>
+        <dc:description xml:lang="en">Brand of virtual reality hardware and software.</dc:description>
+        <dc:description xml:lang="pt-br">Marca de hardware e software de realidade virtual.</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Oculus</dc:title>
+        <rdfs:label xml:lang="en">Oculus</rdfs:label>
+        <rdfs:seeAlso xml:lang="en">Oculus from Facebook (Meta)</rdfs:seeAlso>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxpD7Q8vohE4PMpkkACKN3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxpD7Q8vohE4PMpkkACKN3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7lBQdrz4C3S9D8e0vWWpC5"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8zrAH8BaO1ukT642vCrwQr"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R9r1boS7GOsfUGn4hweQs1M"/>
+            </owl:Restriction>
+        </rdf:type>
+        <dc:description xml:lang="en">VR glasses made with heavy-duty paper.</dc:description>
+        <dc:rights xml:lang="en">wikidata</dc:rights>
+        <dc:title xml:lang="en">Cardboard</dc:title>
+        <rdfs:label xml:lang="en">Cardboard</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
