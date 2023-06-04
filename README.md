@@ -1,2 +1,2 @@
 # metaverse-ontology
-Metaverse Ontology Project - Version 1.0.0.
+Metaverse Ontology Project - Version 1.1.0.
